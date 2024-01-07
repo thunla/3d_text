@@ -1,0 +1,17 @@
+{
+  "name": "basic_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "ThuNguyen",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.160.0",
+    "vite": "^5.0.11"
+  }
+}
